@@ -1,9 +1,9 @@
 # Additional Flare Sepolicy
 BOARD_VENDOR_SEPOLICY_DIRS += \
-    device/flare/sepolicy/vendor
+    device/flare/sepolicy/common/vendor
 
 SYSTEM_EXT_PRIVATE_SEPOLICY_DIRS += \
-    device/flare/sepolicy/private
+    device/flare/sepolicy/common/private
 
 #SYSTEM_EXT_PUBLIC_SEPOLICY_DIRS += \
-#    device/flare/sepolicy/public
+#    device/flare/sepolicy/common/public
