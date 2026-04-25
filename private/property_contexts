@@ -1,3 +1,9 @@
+# Flare
+ro.flare.device                        u:object_r:custom_version_prop:s0
+ro.flare.build.version                 u:object_r:custom_version_prop:s0
+ro.flare.display.version               u:object_r:custom_version_prop:s0
+ro.flare.version                       u:object_r:custom_version_prop:s0
+
 # PIHooks
 persist.sys.pihooks.disable.           u:object_r:pih_disable_prop:s0
 
